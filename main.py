@@ -36,6 +36,7 @@ RUN = True
 
 
 """
+xxx
 js_name = js.get_name() 
 print(js_name) #  вывод имени геймпада
 
